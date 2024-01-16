@@ -1,4 +1,5 @@
 # README
-
-Peerapat Suttiprasit
+This is hot-fix branch. Created for quick fix bugs that might be found on deployment or after deployed.
+## Developer
+Peerapat Suttiprasit\n
 ID: 6410742651
